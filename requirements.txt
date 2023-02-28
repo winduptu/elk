@@ -1,3 +1,8 @@
 elasticsearch==8.6.1
 pandas
 streamlit
+pandas
+streamlit
+numpy
+pytz
+IPython
