@@ -5,7 +5,7 @@ import re
 from IPython.display import Audio
 import base64
 # Connect to Elasticsearch
-es = Elasticsearch(hosts=[{"host": "35.226.245.142", "port": 9200, "scheme": "http"}])
+es = Elasticsearch(hosts=[{"host": "35.232.38.245", "port": 9200, "scheme": "http"}])
 
 def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
